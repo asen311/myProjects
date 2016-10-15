@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    android:id="@+id/GameLayout"
+    >
+
+
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/RecyclerView"
+        android:layout_width="370dp"
+        android:scrollbars="vertical"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true">
+    </android.support.v7.widget.RecyclerView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="20dp"
+        android:textColor="@color/Yellow"
+        android:id="@+id/hangmanTextView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="83dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/Yellow"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageHangMan"
+
+        android:layout_above="@+id/RecyclerView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="61dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/wordsView"
+        android:textColor="@color/Yellow"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_toEndOf="@+id/hangmanTextView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lastWordTextView"
+        android:textColor="@color/Yellow"
+        android:layout_alignTop="@+id/wordsView"
+        android:layout_toEndOf="@+id/textView3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/music"
+        android:id="@+id/musicImageView"
+        android:layout_alignBottom="@+id/hangmanTextView"
+        android:layout_toEndOf="@+id/textView3" />
+
+</RelativeLayout>

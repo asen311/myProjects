@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Бесеница</string>
+    <string name="button">бутон</string>
+    <string name="version">Бесеница</string>
+    <string name="Start">Стартирай нова игра</string>
+    <string name="Load">Продължи стара игра</string>
+    <string name="Options">Настройки</string>
+    <string name="Exit">Изход</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="maybe">Може би</string>
+    <string name="exitGame">Изход от играта</string>
+    <string name="doyousure">Наистина ли искате да излезете</string>
+
+
+
+    <string name="GameOver">Играта приключи!</string>
+    <string name="optionsOnGameOver">Какво искате да направите сега</string>
+    <string name="SaveGame">Запамети играта</string>
+    <string name="returnToMainMenu">отиди в главно меню</string>
+    //
+
+    <string name="SaveAndExit">Запамети и изход</string>
+
+
+    <string name="Words">Думи:</string>
+
+    <string name="change_to">Смени на -></string>
+
+
+
+    <string name="changeBackground">Смени фона</string>
+    <string name="take_a_picture_with_camera">Снимай с камерата</string>
+    <string name="get_a_picture_from_gallery">вземи снимка от галерията</string>
+    <string name="see_your_location">виж си локацията</string>
+    <string name="GpsNotWorking">GPS не работи! Моля включете го</string>
+    <string name="GPSrunning">GPS не работи! Трябва да имате инсталиран Google Maps също</string>
+    <string name="click_here_to_see_the_creator">цъкни тук за да видиш създателя</string>
+    <string name="Click_on_me">Цъкни върху снимката за повече информация</string>
+
+    <string name="Creator_information">
+    Асен Николаев е на 21 години и живее в България. Обича да програмира и да излиза с мацки . В момента е студент - 3 година във Техническия
+        Университет -София ( Столицата на България ). Харесва Java и разработката на мобилни приложения. Можете да го последвате във
+        Facebook  от линка долу вляво , или да му се обадите на телефона долу вдясно. Забавлявайте се :) .
+
+    </string>
+    <string name="telephone">+359877088084</string>
+    <string name="notSavedRecords">" Все още нямате запаметена игра "</string>
+    <string name="lastword">"последна намерена дума : "</string>
+    <string name="findAllTheWords">Поздравления ! Ти откри всички думи</string>
+    <string name="followMeOnFacebook">Последвай ме във FACEBOOK ако искаш</string>
+    <string name="donthaveSave">Все още нямате запаметена игра</string>
+    <string name="installbrowser">Моля инсталирайте уеб браузър</string>
+    <string name="noAplicationtohandle">нямате инсталиран браузър</string>
+
+    <string name="cantresolve">не успяхме да заредим тази снимка,опитаите отново</string>
+<string name="gotWrong">Възникна някаква грешка</string>
+
+    <string name="congratulations">поздравления.</string>
+    <string name="youFind">"Вие намерихте "</string>
+    <string name="words"> думи</string>
+    <string name="see_last_saved_game">Виж последната запаметена игра</string>
+    <string name="lastSavedGame">"Последната запаметена игра е ниво : "</string>
+    <string name="noSavedGames">"Още няма запаметена игра "</string>
+
+
+
+
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="button">button</string>
+    <string name="version">Hangman</string>
+    <string name="Start">Start Game</string>
+    <string name="Load">Load Game</string>
+    <string name="Options">Options</string>
+    <string name="Exit">EXIT</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="SaveAndExit">Save and Exit</string>
+    <string name="exitGame">EXIT GAME</string>
+    <string name="doyousure">Are you sure you wanna exit</string>
+    <string name="maybe">Maybe</string>
+
+<string name="Words">Words:</string>
+    <string name="GameOver">GAME OVER!</string>
+    <string name="optionsOnGameOver">What do you wanna do now</string>
+    <string name="SaveGame">Save Game</string>
+    <string name="returnToMainMenu">main menu</string>
+    <string name="change_to">Change to</string>
+    <string name="changeBackground">Change Background</string>
+    <string name="take_a_picture_with_camera">Take a picture with Camera</string>
+    <string name="see_your_location">See your Location</string>
+    <string name="GpsNotWorking">GPS is not Working!!! Turned in on !</string>
+    <string name="GPSrunning">GPS now working , you need to have install google maps also!!</string>
+    <string name="click_here_to_see_the_creator">Click here to see the Creator</string>
+    <string name="Click_on_me">Click on me For More Information</string>
+
+    <string name="Creator_information">Asen Nikolaev is 21 years old and lives in Bulgaria. He loves  program and hanging out with girls.
+        He currently is student on his third year on Technical University in Sofia( capital of Bulgaria ). He likes Java and making
+        Android applications. You can follow him on Facebook from the link on the bottom-right , or call him on the bottom -left. Enjoy;
+    </string>
+    <string name="telephone">+359877088084</string>
+    <string name="get_a_picture_from_gallery">Get A Picture from Gallery</string>
+    <string name="notSavedRecords">" Not Saved Records "</string>
+    <string name="lastword">"Last find word "</string>
+    <string name="findAllTheWords">congratulations - you find all the words</string>
+    <string name="followMeOnFacebook">Follow me on Facebook if you want</string>
+    <string name="donthaveSave">You don\'t have Saved games</string>
+    <string name="installbrowser">Please install a web browser</string>
+    <string name="noAplicationtohandle">No application can handle this request</string>
+    <string name="cantresolve">can\'t resolve the picture from gallery , try again</string>
+    <string name="gotWrong">Something got wrong</string>
+    <string name="congratulations">congratulations.</string>
+    <string name="youFind">"You find "</string>
+    <string name="words">" words"</string>
+    <string name="see_last_saved_game">See Last Saved Game</string>
+    <string name="lastSavedGame">"Last Save Game level is "</string>
+    <string name="noSavedGames">"There is no save game "</string>
+
+
+</resources>

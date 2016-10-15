@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/changeBackground">
+        <menu>
+            <item android:enabled="true" android:title="@string/get_a_picture_from_gallery" android:id="@+id/GetGalleryPicture"/>
+            <item android:enabled="true" android:title="@string/take_a_picture_with_camera" android:id="@+id/TakeAPicture"/>
+        </menu>
+    </item>
+</menu>
